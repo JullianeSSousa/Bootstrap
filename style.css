@@ -1,0 +1,194 @@
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+.navbar .navbar-expand-lg{
+    background-color: #1b074a;
+    color: white;
+}
+
+
+.custom-header {
+    background-color: #1b074a;
+}
+
+
+
+.a{
+    color: white;
+    margin-right: 18px;
+    font-weight: bold;
+    
+    
+}
+
+ul{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content:flex-end;
+    
+}
+
+.nav-item{
+    
+    list-style-type: none;
+    color: white;
+    
+}
+/*Escola*/
+
+#escola{
+    padding: 5%;
+
+    
+}
+
+.titulo_escola{
+    color:#6C54A3;
+    font-size: 78px;
+    margin-bottom: 5%;
+}
+
+h1, h2 {
+
+    text-align: center;
+    padding: 1.5rem;
+}
+
+
+.escola_apresentacao{
+    text-align: center;
+    font-size: 24px;
+}
+
+
+/*EQUIPE*/
+
+#equipe{
+    display: grid;
+    flex-direction: column;
+
+
+}
+
+
+.equipe_apresentacao{
+    text-align: justify;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 33%;
+}
+
+/*projeto*/
+
+#projeto{
+    display: flex;
+    flex-direction: row;
+
+
+}
+.imagemprojeto{
+
+    width: 60%;
+    float: left;
+    gap: 5%;
+    align-items: stretch;
+    flex-direction: row;
+
+}
+.projeto_apresentacao{
+    text-align: right;
+    margin-top: 40px;
+    font-size: 20px;
+
+}
+
+
+/*matricula*/
+#matricula{
+    background-color: #f8f9fa; /* Cor de fundo clara */
+    padding: 40px; /* Espaçamento interno */
+    border-radius: 9px; /* Bordas arredondadas */
+    box-shadow: 0 4px 8px rgb( rgb(1, 1, 115));/* Sombra suave */
+}
+
+label {
+    font-weight: bold; /* Texto em negrito */
+    margin-bottom: 5px; /* Espaçamento abaixo do rótulo */
+}
+
+.form-control {
+    border-radius: 4px; /* Bordas arredondadas nos campos */
+    border: 1px solid #6C54A3; /* Borda com a cor do cabeçalho */
+}
+
+#curso{
+    margin-top: 5px;
+    margin-bottom: 25px;
+    padding: 5px; /* Espaçamento interno */
+    border-radius: 4px;
+    border: 1px solid #6C54A3;
+    width: 100%;
+   
+
+}
+
+
+/*Contato-footer */
+
+#contato{
+    background-color: #1b074a;
+    padding: 30px;
+    color: white;
+
+}
+
+.rodape_itens span{
+    color: white;
+}
+
+.rodape_itens{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+
+
+.rodape_icon{
+    width: 35px;
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.imagem_funcionario{
+    width: 10%;
+    height: auto;
+    border-radius: 80%;
+}*/
