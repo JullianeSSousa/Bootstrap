@@ -1,2 +1,2 @@
 Criação de site utilizando Bootstrap atividade desenvolvida para a disciplianda faculdade.
-https://schoolprogram.netlify.app/
+Para visualizar o site entre no link: https://schoolprogram.netlify.app/
